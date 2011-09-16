@@ -1,0 +1,15 @@
+{
+  "name": "Using dfm",
+  "sections": [
+    { "section": "title" },
+    { "section": "about_me" },
+    { "section": "in_the_beginning" },
+    { "section": "brave_new_world" },
+    { "section": "lets_try_it_out" },
+    { "section": "special_features" },
+    { "section": "looking_forward" },
+    { "section": "more_information" },
+    { "section": "conclusion" },
+    { "section": "end" }
+  ]
+}

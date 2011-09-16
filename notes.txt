@@ -1,0 +1,77 @@
+in the beginning
+    - the struggle
+        - one computer (old dev server, one install)
+        - second computer (new dev server)
+        - third computer
+        - fourth computer
+        - development VMs
+    - the first solution
+        - subversion
+        - svn import
+        - svn checkout
+        - small script to automate installation
+        - euphoria
+    - good
+        - Able to share between hosts
+        - used for a whole year
+    - bad
+        - subversion is clunky, not easy to branch
+        - no way to check out on web hosts or at home
+
+# brave new world
+
+## something better
+    - switch to git
+    - access on more machines
+
+    - let's see if anyone else has solved this problem
+        - common MO is to clone and "install" by symlinking
+            - shell script (ew)
+            - makefile (double ew)
+            - ruby (meh, it's nifty but not ubiquitous)
+
+## requirements
+    - quick to install
+    - install dotfiles anywhere
+    - as few software requirements as possible
+        - git
+        - perl
+
+
+# let's try it out
+
+## getting started
+    - clone git@github.com:justone/dotfiles.git
+    - push to your own repository, github or otherwise
+
+## installation
+    - git clone your_repo
+    - ./.dotfiles/bin/dfm
+    - now dfm is on your path
+
+## changing a file
+    - dfm add .vimrc
+    - dfm ci -m 'added super cool mapping'
+    - dfm push origin master
+
+## getting latest dotfiles
+    - dfm updates
+    - dfm mergeandinstall
+
+# special features
+
+## arbitrary git commands
+## recursion
+## backups
+## even has tests
+## advanced branching
+
+# documentation
+
+## pod doc
+## wiki
+    - cookbook
+    - full documentation
+    - FAQs, eventually
+
+# looking forward
