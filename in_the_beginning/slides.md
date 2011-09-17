@@ -28,10 +28,12 @@
 
 !SLIDE bullets incremental
 
+# Ready, set, go!
+
 * ssh firstbox
-* svn import . $SVN -m 'initial'
+* svn import . $MTSVN -m 'initial'
 * ssh secondbox
-* svn checkout $SVN .
+* svn checkout $MTSVN .
 * svn add/commit/update
 
 !SLIDE
