@@ -35,3 +35,37 @@
 
     $ cat .backup/.vimrc 
     syntax on
+
+!SLIDE commandline incremental
+
+# Skipping files
+
+    $ cat .dotfiles/.dfminstall
+    README.md skip
+    t skip
+
+    $ dfm install
+    INFO: Installing dotfiles...
+
+    $ ls README.md
+    ls: cannot access README.md: No such file or directory
+
+!SLIDE commandline incremental
+
+# Recursion
+
+    $ cat .dotfiles/.dfminstall
+    .ssh
+    README.md skip
+    t skip
+
+    $ dfm install
+    INFO: Installing dotfiles...
+    INFO:   Symlinking config (../.dotfiles/.ssh/config).
+
+    $ ls -ld .ssh/
+    drwx------ .ssh/
+
+    $ ls -l .ssh
+    lrwxrwxrwx .ssh/config -> ../.dotfiles/.ssh/config
+    -rw-r--r-- .ssh/known_hosts
