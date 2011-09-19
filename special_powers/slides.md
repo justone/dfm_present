@@ -1,7 +1,7 @@
 !SLIDE subsection
 # special powers #
 
-!SLIDE commandline
+!SLIDE commandline incremental
 
 # Run any git commands
 
@@ -9,11 +9,11 @@
      M .vimrc
 
     $ pushd ~/.dotfiles
-    ~/.dotfiles ~/foo
+    ~/.dotfiles ~
     $ git status -s
      M .vimrc
     $ popd
-    ~/foo
+    ~
 
 !SLIDE commandline incremental
 
@@ -42,7 +42,9 @@
 
     $ cat .dotfiles/.dfminstall
     README.md skip
-    t skip
+
+    $ ls -l .dotfiles/README.md 
+    -rw-rw-r-- .dotfiles/README.md
 
     $ dfm install
     INFO: Installing dotfiles...
@@ -56,8 +58,9 @@
 
     $ cat .dotfiles/.dfminstall
     .ssh
-    README.md skip
-    t skip
+
+    $ ls -l .dotfiles/.ssh/
+    -rw-r--r-- config
 
     $ dfm install
     INFO: Installing dotfiles...
