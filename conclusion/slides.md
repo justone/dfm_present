@@ -2,6 +2,7 @@
 # all done #
 
 !SLIDE bullets
-# Source and documentation #
+# Thanks #
 
-## http://github.com/justone/dotfiles ##
+## showoff: https://github.com/schacon/showoff ##
+## git: http://git-scm.com/ ##

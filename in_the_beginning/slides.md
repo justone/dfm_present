@@ -16,11 +16,11 @@
 
 !SLIDE
 
-# many computers [image]
+# disk [image]
 
 !SLIDE
 
-# disk [image]
+# many computers [image]
 
 !SLIDE
 

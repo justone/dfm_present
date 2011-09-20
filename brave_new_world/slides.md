@@ -26,5 +26,5 @@
 # Requirements
 
 * easy to install
-* easy to add
 * easy to update
+* easy to add
