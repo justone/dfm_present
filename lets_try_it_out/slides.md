@@ -40,7 +40,7 @@
     $ dfm status -s
     A  .vimrc
 
-    $ dfm commit -am 'added vimrc'
+    $ dfm commit -m 'added vimrc'
     [master 6c12a63] adding vimrc
      1 files changed, 1 insertions(+), 0 deletions(-)
      create mode 100644 .vimrc
@@ -50,7 +50,7 @@
     Compressing objects: 100% (2/2), done.
     Writing objects: 100% (3/3), 265 bytes, done.
     Total 3 (delta 1), reused 0 (delta 0)
-    To git@github.com:dfmexample/dotfiles.git
+    To git@github.com:username/dotfiles.git
        012325a..6c12a63  master -> master
 
 !SLIDE commandline incremental
