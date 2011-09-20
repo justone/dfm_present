@@ -1,9 +1,16 @@
 !SLIDE subsection
 # let's try it out #
 
+!SLIDE bullets incremental
+
+# Step 0
+
+* fork on github
+* set up your own master repo
+
 !SLIDE commandline incremental
 
-# Getting started
+# Installation
 
     $ git clone git@github.com:username/dotfiles.git .dotfiles
     Cloning into .dotfiles...
