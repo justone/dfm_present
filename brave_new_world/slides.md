@@ -1,6 +1,14 @@
 !SLIDE subsection
 # brave new world #
 
+!SLIDE bullets incremental
+
+# Requirements
+
+* accessible anywhere
+* shareable
+* easy to install/update
+
 !SLIDE
 
 # git [logo image]
@@ -15,16 +23,8 @@
 
 !SLIDE bullets incremental
 
-# What language?
+# Prior work
 
-* makefile
-* shell script
-* ruby
-
-!SLIDE bullets incremental
-
-# Requirements
-
-* easy to install
-* easy to update
-* easy to add
+* many shared dotfiles repos
+* clone and symlink
+* make, shell, ruby
