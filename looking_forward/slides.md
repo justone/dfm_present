@@ -8,6 +8,7 @@
 * grow test suite
 * more documentation
 * 'dfm uninstall'
+* 'dfm umi'
 * clean up dangling symlinks
 
 !SLIDE bullets incremental

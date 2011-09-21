@@ -86,7 +86,7 @@
        5a745c4..012325a  master     -> origin/master
     012325a: updated vimrc
 
-    $ dfm mergeandinstall
+    $ dfm mi
     INFO: using merge to bring in changes
     Updating 5a745c4..012325a
     Fast-forward
