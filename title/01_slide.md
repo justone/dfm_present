@@ -1,6 +1,8 @@
 !SLIDE 
-# Using **dfm** #
 
-## dotfiles management that just works ##
+# Using **dfm**
 
-### by Nate Jones ###
+## managing your dotfiles with perl and git
+
+### by Nate Jones
+### LA.pm - 9/21/2011
