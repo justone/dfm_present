@@ -25,4 +25,5 @@
 
 * script to help with managing multiple branches
 * automatic update checker
+* git hooks
 * ???

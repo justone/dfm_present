@@ -40,11 +40,11 @@
 
 # Skipping files
 
-    $ cat .dotfiles/.dfminstall
-    README.md skip
-
     $ ls -l .dotfiles/README.md 
     -rw-rw-r-- .dotfiles/README.md
+
+    $ cat .dotfiles/.dfminstall
+    README.md skip
 
     $ dfm install
     INFO: Installing dotfiles...
@@ -56,11 +56,11 @@
 
 # Recursion
 
-    $ cat .dotfiles/.dfminstall
-    .ssh
-
     $ ls -l .dotfiles/.ssh/
     -rw-r--r-- config
+
+    $ cat .dotfiles/.dfminstall
+    .ssh
 
     $ dfm install
     INFO: Installing dotfiles...

@@ -5,7 +5,7 @@
 
 # Step 0
 
-* fork on github
+* fork on github: https://github.com/justone/dotfiles
 * set up your own master repo
 
 !SLIDE commandline incremental
