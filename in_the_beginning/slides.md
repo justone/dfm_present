@@ -6,21 +6,21 @@
 # .bashrc
 # .vimrc
 
+!SLIDE center
+
+![one server](server.png)
+
+!SLIDE center
+
+![two servers](server2.png)
+
+!SLIDE center
+
+![disk](disk.png)
+
 !SLIDE
 
-# one computer [image]
-
-!SLIDE
-
-# 2 computers [image]
-
-!SLIDE
-
-# disk [image]
-
-!SLIDE
-
-# many computers [image]
+![background](many.png)
 
 !SLIDE
 
@@ -36,18 +36,18 @@
 * svn checkout $MTSVN .
 * svn add/commit/update
 
-!SLIDE
+!SLIDE center
 
-# euphoria [image]
+![happy](smile.png)
 
-!SLIDE
+!SLIDE center
 
-# 2 problems [frowny face image]
+![sad](sad.png)
 
-!SLIDE
+!SLIDE center
 
-# subversion [logo image]
+![subversion](subversion-logo.png)
 
-!SLIDE
+!SLIDE center
 
-# wall [image]
+![access](network-offline.png)

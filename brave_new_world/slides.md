@@ -7,17 +7,18 @@
 
 * accessible anywhere
 * shareable
-* easy to install/update
+* quick to install/update
+* easy to modify
 
-!SLIDE
+!SLIDE center
 
-# git [logo image]
+![git](git-logo.png)
 
 .notes vastly superior version control system, allows for repository outside of (mt), separate branches for work and personal sharing
 
-!SLIDE
+!SLIDE center
 
-# github [logo image]
+![github](octocat.png)
 
 .notes lots of dotfiles repositories, common methodology was to clone and "install" by symlinking
 

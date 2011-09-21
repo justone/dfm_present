@@ -1,7 +1,7 @@
 !SLIDE subsection
 # about me #
 
-!SLIDE
+!SLIDE center
 
 ![mediatemple.net](black-mt-bug.gif)
 
