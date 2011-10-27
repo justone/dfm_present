@@ -11,3 +11,7 @@ body.fullScreen {
 #preso, .slide {
   border: none !important;
 }
+
+.content > ul > li {
+    margin-left: 0;
+}

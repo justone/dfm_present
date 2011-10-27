@@ -3,16 +3,6 @@
 
 !SLIDE bullets incremental
 
-# Low hanging fruit #
-
-* grow test suite
-* more documentation
-* 'dfm uninstall'
-* 'dfm umi'
-* clean up dangling symlinks
-
-!SLIDE bullets incremental
-
 # Ease of use #
 
 * starter repositories

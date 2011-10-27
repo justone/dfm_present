@@ -5,4 +5,4 @@
 ## managing your dotfiles with perl and git
 
 ### by Nate Jones
-### LA.pm - 9/21/2011
+### Thursday Tech Talks - 10/27/2011

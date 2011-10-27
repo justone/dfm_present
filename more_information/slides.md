@@ -14,4 +14,3 @@
 ## http://git-scm.com/ ##
 ## http://www.perl.org/ ##
 ## https://github.com/schacon/showoff ##
-## http://www.openclipart.org/ ##

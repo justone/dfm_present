@@ -2,9 +2,7 @@
   "name": "Using dfm",
   "sections": [
     { "section": "title" },
-    { "section": "about_me" },
-    { "section": "in_the_beginning" },
-    { "section": "brave_new_world" },
+    { "section": "what_is_dfm" },
     { "section": "lets_try_it_out" },
     { "section": "special_powers" },
     { "section": "looking_forward" },
