@@ -1,17 +1,7 @@
-body.fullScreen {
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-#preso, .slide {
-  border: none !important;
-}
-
 .content > ul > li {
     margin-left: 0;
+}
+
+#footer {
+    display: none;
 }
