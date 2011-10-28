@@ -1,6 +1,6 @@
 # Description
 
-These are the slides from my [dfm](http://endot.org/projects/dfm/) presentation at [LA.pm](http://losangeles.pm.org/) on Sep. 21, 2011. They are written to utilize [showoff](https://github.com/schacon/showoff).
+These are the slides from my [dfm](http://endot.org/projects/dfm/) presentation at [(mt) Media Temple](http://mediatemple.net/) on Oct. 27, 2011. They are written to utilize [showoff](https://github.com/schacon/showoff).
 
 # Copyright
 
